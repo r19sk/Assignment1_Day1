@@ -1,0 +1,13 @@
+Q1. What is python? What are the ways to install python on PC?
+Ans- Python is a programming language which is dynamic and high-level (i.e. it is closer  to human languages than machine languages) language.
+Ways to install Python-
+1.Install Anaconda 
+2.Install Notepad++
+3.Official website of python
+
+Q2.What is coding environment and what are its types?
+Ans-A code environment is a self-contained environment where we can write code , compile code and see the output.
+Types of environment-
+1.Text Editor- Example-Notepad++,Visual Studio
+2.Integrated development environment- Example-Pycharm, spyder
+3.Notebook environment-Jupyter notebook
